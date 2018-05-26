@@ -1,11 +1,19 @@
 Bài kiểm tra giữ kì.
+
 Họ và tên:Phùng Thị Huyền Trang.
+
 Mã SV:17it109.
+
 ĐỀ SỐ 18:
+
 1.File explorer
+
 2.Chức năng un_zipfile
+
+Link video hướng dẫn:https://youtu.be/Vm1RtBc5ERw
+
 *****************************
-CHỨC NĂNG PHỤ:
+CHỨC NĂNG PHỤ:Tạo file mới, rename và delete
 
 -chức năng tạo file mới
 
