@@ -1,8 +1,10 @@
-Bài kiểm tra giữ kì
-Họ và tên:Phùng Thị Huyền Trang
-Mã SV:17it109
-ĐỀ SỐ 13:
-1.
+Bài kiểm tra giữ kì.
+Họ và tên:Phùng Thị Huyền Trang.
+Mã SV:17it109.
+ĐỀ SỐ 18:
+1.File explorer
+2.Chức năng un_zipfile
+*****************************
 CHỨC NĂNG PHỤ:
 
 -chức năng tạo file mới
